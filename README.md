@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sheralitukhtayev
 - 👀 I’m interested in Coding, Gaming
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me https://t.me/sheralitukhtayev
